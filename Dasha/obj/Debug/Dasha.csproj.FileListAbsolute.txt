@@ -1,0 +1,11 @@
+C:\Users\жорик\source\repos\Dasha\Dasha\bin\Debug\Dasha.exe.config
+C:\Users\жорик\source\repos\Dasha\Dasha\bin\Debug\Dasha.exe
+C:\Users\жорик\source\repos\Dasha\Dasha\bin\Debug\Dasha.pdb
+C:\Users\жорик\source\repos\Dasha\Dasha\obj\Debug\Dasha.csproj.AssemblyReference.cache
+C:\Users\жорик\source\repos\Dasha\Dasha\obj\Debug\Dasha.csproj.SuggestedBindingRedirects.cache
+C:\Users\жорик\source\repos\Dasha\Dasha\obj\Debug\Dasha.Form1.resources
+C:\Users\жорик\source\repos\Dasha\Dasha\obj\Debug\Dasha.Properties.Resources.resources
+C:\Users\жорик\source\repos\Dasha\Dasha\obj\Debug\Dasha.csproj.GenerateResource.cache
+C:\Users\жорик\source\repos\Dasha\Dasha\obj\Debug\Dasha.csproj.CoreCompileInputs.cache
+C:\Users\жорик\source\repos\Dasha\Dasha\obj\Debug\Dasha.exe
+C:\Users\жорик\source\repos\Dasha\Dasha\obj\Debug\Dasha.pdb
