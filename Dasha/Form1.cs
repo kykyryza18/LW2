@@ -39,8 +39,6 @@ namespace Dasha
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
-            double a = -2.235 * Math.Pow(10, -2);
-            textBox1.Text = a.ToString();
         }
     }
 }
