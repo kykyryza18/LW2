@@ -15,6 +15,7 @@ namespace Dasha
         public Form1()
         {
             InitializeComponent();
+
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -27,8 +28,19 @@ namespace Dasha
             double z = Convert.ToDouble(textBox3.Text);
             textBox4.Text += "Z = " + z.ToString() + Environment.NewLine;
 
-            double result = (Math.Exp(Math.Abs(x - y)) * Math.Pow(Math.Abs(x - y), (x + y))) / (Math.Atan(x) + Math.Atan(z)) + Math.Pow(Math.Pow(x, 6) + Math.Pow(Math.Log(y), 2), 1 / 3);
+            
+
+
+            double result = (Math.Exp(Math.Abs(x - y)) * Math.Pow(Math.Abs(x - y), (x + y))) 
+                / 
+                (Math.Atan(x) + Math.Atan(z)) + Math.Pow(Math.Pow(x, 6) + Math.Pow(Math.Log(y), 2), 1d / 3d);
             textBox4.Text += "Ответ - " + result.ToString();
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+            double a = -2.235 * Math.Pow(10, -2);
+            textBox1.Text = a.ToString();
         }
     }
 }
